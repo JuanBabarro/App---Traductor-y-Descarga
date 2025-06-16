@@ -1,4 +1,4 @@
-# 🗣️ Traductor con Voz, Ejercicios y Audio
+# 🗣️ Traductor con Audio y Descarga
 
 Este proyecto es una aplicación web construida con **Streamlit** que permite traducir texto o audio a diferentes idiomas, generar audio con la traducción y practicar con ejercicios interactivos. Ideal para aprender idiomas de forma dinámica y entretenida.
 
