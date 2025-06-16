@@ -175,7 +175,7 @@ idiomas = {
 idiomas_lista = ["🌐 Elegir idioma de traducción"] + list(idiomas.values())
 
 st.markdown("""
-<h1 class="titulo-rainbow">🗣️ Traductor con Voz y Descarga</h1>
+<h1 class="titulo-rainbow">🗣️ Traductor con Audio y Descarga</h1>
 
 <style>
 .titulo-rainbow {
