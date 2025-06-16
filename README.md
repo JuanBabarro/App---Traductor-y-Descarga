@@ -19,6 +19,7 @@ Este proyecto es una aplicación web construida con **Streamlit** que permite tr
 ## 🛠️ Tecnologías utilizadas
 
 - [Streamlit](https://streamlit.io/) — para la interfaz web.
+- [OpenAI] - para la traduccion del Texto
 - [Googletrans](https://pypi.org/project/googletrans/) — traducción automática.
 - [gTTS](https://pypi.org/project/gTTS/) — generación de audio con texto traducido.
 - [faster-whisper](https://github.com/guillaumekln/faster-whisper) — modelo de transcripción automática.
