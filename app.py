@@ -187,7 +187,7 @@ st.markdown("""
     -webkit-text-fill-color: transparent;
     animation: arcoiris 12s linear infinite;
     font-family: 'Segoe UI', sans-serif;
-    margin-bottom: 1rem;
+    margin-bottom: -3rem;
     text-shadow: 0 0 8px rgba(0,0,0,0.2);
 }
 
